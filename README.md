@@ -1,2 +1,2 @@
 # stark-developments.co.uk
-Website HTML.
+HTML, CSS and JS artifacts for the stark-developments.co.uk webpage.
