@@ -1,0 +1,17 @@
+User-agent: Googlebot 
+User-agent: Googlebot-Mobile
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google
+User-agent: MSNBot
+User-agent: Bingbot
+User-agent: Slurp
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Sitemap: http://stark-developments.co.uk/sitemap.xml
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: *
+Disallow: /
