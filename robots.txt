@@ -8,7 +8,7 @@ User-agent: Slurp
 Disallow: /css/
 Disallow: /js/
 Disallow: /images/
-Sitemap: http://stark-developments.co.uk/sitemap.xml
+Sitemap: https://www.stark-developments.co.uk/sitemap.xml
 
 User-agent: Googlebot-Image
 Disallow: /
